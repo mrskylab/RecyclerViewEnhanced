@@ -6,8 +6,8 @@ Add this to your build.gradle file
 
 ```
 dependencies {
-  compile 'com.nikhilpanju.recyclerviewenhanced:recyclerviewenhanced:1.1.0'
-}
+	        implementation 'com.github.nikhilpanju:RecyclerViewEnhanced:1.1'
+	}
 ```
 
 ## Features
